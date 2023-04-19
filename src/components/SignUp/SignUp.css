@@ -1,0 +1,31 @@
+.form-container {
+    width: 500px;
+    height: 700px;
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin: 40px auto;
+    padding-left:42px;
+
+}
+
+.form-container label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-container input {
+    width: 415px;
+    height: 55px;
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.btn-submit{
+    margin-top: 20px;
+    background: rgba(237, 159, 15, 0.3);
+}
+
+.error{
+    color: red;
+}
